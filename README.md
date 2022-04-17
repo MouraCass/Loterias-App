@@ -10,7 +10,7 @@
 
 ## Deploy da Aplicação no Vercel:
 
-Deploy da Aplicação concluído no Vercel <a href="https://loterias-app.vercel.app/">Loterias-App</a>
+Deploy da Aplicação concluído no Vercel <a href="https://loterias-app.vercel.app/">Loterias-App</a>.
 #
 
 ## :robot: Tecnologias: 
